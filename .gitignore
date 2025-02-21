@@ -1,0 +1,42 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs & cache
+*.log
+*.csv
+*.tsv
+*.xlsx
+
+# Pickle & Model files
+*.pkl
+*.h5
+*.joblib
+
+# Environment Variables
+.env
+*.env
+
+# Node.js (if React frontend is included)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build files
+dist/
+build/
+
+# VS Code & JetBrains IDE files
+.vscode/
+.idea/
+*.iml
